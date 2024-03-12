@@ -1,6 +1,6 @@
 {
     "name": "Azure Search OpenAI Demo - C#",
-    "image": "image": "mcr.microsoft.com/devcontainers/python:3.11",
+    "image": "mcr.microsoft.com/devcontainers/python:3.11",
     "features": {
       "ghcr.io/devcontainers/features/docker-in-docker:2": {},
       "ghcr.io/devcontainers/features/azure-cli:1.2.1": {},
